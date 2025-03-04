@@ -22,12 +22,15 @@
 
 ## 🚀 Featured Repositories
 
-| Tech stack                                                                             | Technology | Description                                 |
-| -------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- |
-| [🔗 Gutenberg Plugin](https://github.com/your-github-username/gutenberg-plugin)        | WordPress  | Custom Gutenberg block interacting with API |
-| [🔗 Next.js SSR App](https://github.com/your-github-username/nextjs-ssr)               | Next.js    | Server-side rendered Next.js application    |
-| [🔗 Angular Signals](https://github.com/your-github-username/angular-signals)          | Angular    | Demonstrating Angular Signal API            |
-| [🔗 Magento 2 API Module](https://github.com/your-github-username/magento2-api-module) | Magento 2  | Custom REST API Module in Magento 2         |
+| Tech stack                                                       | Technology         | Description                                                      |
+| ---------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------- |
+| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)        | Next.js            | Server-side rendered Next.js application                         |
+| [🔗 Wordpress](https://github.com/shaileshrathod128/wordpress)   | WordPress / wp-cli | Wordpress, Custom Gutenberg block interacting with API, `wp-cli` |
+| [🔗 Angular](https://github.com/shaileshrathod128/angular)       | Angular            | Demonstrating Angular Signal API                                 |
+| [🔗 React](https://github.com/shaileshrathod128/reactjs)         | ReactJS            | Demostrating React Advance Features                              |
+| [🔗 Magento 2](https://github.com/shaileshrathod128/magento2)    | Magento 2          | Demostrating Magento 2 Advance Features                          |
+| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)         | NodeJS             | Demostrating Nodejs Advance Features                             |
+| [🔗 Typescript](https://github.com/shaileshrathod128/typescript) | Typescript         | Demostrating typescript Advance Features                         |
 
 ---
 
