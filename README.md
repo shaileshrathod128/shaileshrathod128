@@ -24,6 +24,7 @@
 
 | Tech stack                                                       | Technology         | Description                                                      |
 | ---------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------- |
+| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)       | AI & LLM           | RAG & Fine Tune LLM                                              |
 | [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)        | Next.js            | Server-side rendered Next.js application                         |
 | [🔗 Wordpress](https://github.com/shaileshrathod128/wordpress)   | WordPress / wp-cli | Wordpress, Custom Gutenberg block interacting with API, `wp-cli` |
 | [🔗 Angular](https://github.com/shaileshrathod128/angular)       | Angular            | Demonstrating Angular Signal API                                 |
