@@ -14,9 +14,10 @@
 
 ## 🏆 About Me
 
-🔹 Full-Stack Developer with expertise in **Gutenberg Blocks, React, Next.js, Angular, Node.js, TypeScript, and Magento 2**  
-🔹 Passionate about **building scalable applications, optimizing performance, and solving complex problems**  
-🔹 **Contributor to Open-Source Projects**
+🔹 Full-Stack Developer with expertise in **Gutenberg Blocks, React, Next.js, Angular, Node.js, TypeScript, and Magento 2**
+🔹 Experienced in **AI/LLM integration**, including **RAG pipelines, embedding models, and LLM fine-tuning using LoRA, QLoRA, and Hugging Face Transformers**
+🔹 Passionate about building **scalable applications**, optimizing performance, and solving complex technical problems across Web2 and Web3 stacks
+🔹 Contributor to **Open-Source Projects** and advocate for clean architecture, automation, and continuous learning
 
 ---
 
