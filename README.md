@@ -27,15 +27,14 @@
 
 ## 🚀 Featured Repositories
 
-| Tech stack                                                       | Technology | Description                              |
-| ---------------------------------------------------------------- | ---------- | ---------------------------------------- |
-| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)       | AI & LLM   | RAG & Fine Tune LLM                      |
-| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)        | Next.js    | Server-side rendered Next.js application |
-| [🔗 React](https://github.com/shaileshrathod128/reactjs)         | ReactJS    | Demostrating React Advance Features      |
-| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)         | NodeJS     | Demostrating Nodejs Advance Features     |
-| [🔗 Typescript](https://github.com/shaileshrathod128/typescript) | Typescript | Demostrating typescript Advance Features |
-| [🔗 Angular](https://github.com/shaileshrathod128/angular)       | Angular    | Demonstrating Angular Signal API         |
-
+| Tech stack                                                                    | Technology     | Description                                  |
+| ----------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
+| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)                    | AI & LLM       | RAG & Fine Tune LLM                          |
+| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)                     | Next.js        | Server-side rendered Next.js application     |
+| [🔗 React](https://github.com/shaileshrathod128/reactjs)                      | ReactJS        | Demostrating React Advance Features          |
+| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)                      | NodeJS         | Demostrating Nodejs Advance Features         |
+| [🔗 Typescript](https://github.com/shaileshrathod128/typescript)              | Typescript     | Demostrating typescript Advance Features     |
+| [🔗 Angular](https://github.com/shaileshrathod128/angular)                    | Angular        | Demonstrating Angular Signal API             |
 | [🔗 Github Actions](https://github.com/shaileshrathod128/github-actions-cicd) | Github Actions | Demostrating Github Actions Advance Features |
 
 ---
