@@ -27,17 +27,16 @@
 
 ## 🚀 Featured Repositories
 
-| Tech stack                                                                    | Technology         | Description                                                      |
-| ----------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------- |
-| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)                    | AI & LLM           | RAG & Fine Tune LLM                                              |
-| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)                     | Next.js            | Server-side rendered Next.js application                         |
-| [🔗 Wordpress](https://github.com/shaileshrathod128/wordpress)                | WordPress / wp-cli | Wordpress, Custom Gutenberg block interacting with API, `wp-cli` |
-| [🔗 Angular](https://github.com/shaileshrathod128/angular)                    | Angular            | Demonstrating Angular Signal API                                 |
-| [🔗 React](https://github.com/shaileshrathod128/reactjs)                      | ReactJS            | Demostrating React Advance Features                              |
-| [🔗 Magento 2](https://github.com/shaileshrathod128/magento2)                 | Magento 2          | Demostrating Magento 2 Advance Features                          |
-| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)                      | NodeJS             | Demostrating Nodejs Advance Features                             |
-| [🔗 Typescript](https://github.com/shaileshrathod128/typescript)              | Typescript         | Demostrating typescript Advance Features                         |
-| [🔗 Github Actions](https://github.com/shaileshrathod128/github-actions-cicd) | Github Actions     | Demostrating Github Actions Advance Features                     |
+| Tech stack                                                       | Technology | Description                              |
+| ---------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)       | AI & LLM   | RAG & Fine Tune LLM                      |
+| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)        | Next.js    | Server-side rendered Next.js application |
+| [🔗 React](https://github.com/shaileshrathod128/reactjs)         | ReactJS    | Demostrating React Advance Features      |
+| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)         | NodeJS     | Demostrating Nodejs Advance Features     |
+| [🔗 Typescript](https://github.com/shaileshrathod128/typescript) | Typescript | Demostrating typescript Advance Features |
+| [🔗 Angular](https://github.com/shaileshrathod128/angular)       | Angular    | Demonstrating Angular Signal API         |
+
+| [🔗 Github Actions](https://github.com/shaileshrathod128/github-actions-cicd) | Github Actions | Demostrating Github Actions Advance Features |
 
 ---
 
@@ -48,6 +47,15 @@
 
 <!-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)   -->
 <!-- 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle) -->
+
+<!--
+| [🔗 Wordpress](https://github.com/shaileshrathod128/wordpress)                | WordPress / wp-cli | Wordpress, Custom Gutenberg block interacting with API, `wp-cli` |
+|
+
+ [🔗 Magento 2](https://github.com/shaileshrathod128/magento2)                 | Magento 2      | Demostrating Magento 2 Advance Features      |
+|
+
+ -->
 
 ---
 
