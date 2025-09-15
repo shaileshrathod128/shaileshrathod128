@@ -4,12 +4,8 @@
 
 [![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)]()
 [![Next.js](https://img.shields.io/badge/Next.js-SSG/SSR-black?style=for-the-badge&logo=next.js)]()
-[![Angular](https://img.shields.io/badge/Angular-Enterprise-red?style=for-the-badge&logo=angular)]()
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed-blue?style=for-the-badge&logo=typescript)]()
-[![Github Actions](https://img.shields.io/badge/github-action?style=for-the-badge&logo=github-action)]()
-[![WordPress](https://img.shields.io/badge/WordPress-Gutenberg-blue?style=for-the-badge&logo=wordpress)]()
-[![Magento 2](https://img.shields.io/badge/Magento2-Ecommerce-orange?style=for-the-badge&logo=magento)]()
 ![Solidity](https://img.shields.io/badge/Solidity-Expert-363636?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Developer-3C3C3D?style=for-the-badge&logo=ethereum)
 ![Web3.js](https://img.shields.io/badge/Web3.js-Pro-F16822?style=for-the-badge&logo=web3.js)
@@ -20,7 +16,10 @@
 ![Metamask](https://img.shields.io/badge/Metamask-Integration-F6851B?style=for-the-badge&logo=metamask)
 ![Chainlink](https://img.shields.io/badge/Chainlink-Oracle-375BD2?style=for-the-badge&logo=chainlink)
 ![IPFS](https://img.shields.io/badge/IPFS-Storage-65C2CB?style=for-the-badge&logo=ipfs)
-![Polygon](https://img.shields.io/badge/Polygon-L2%20Scaling-8247E5?style=for-the-badge&logo=polygon)
+[![Github Actions](https://img.shields.io/badge/github-action?style=for-the-badge&logo=github-action)]()
+[![WordPress](https://img.shields.io/badge/WordPress-Gutenberg-blue?style=for-the-badge&logo=wordpress)]()
+[![Magento 2](https://img.shields.io/badge/Magento2-Ecommerce-orange?style=for-the-badge&logo=magento)]()
+[![Angular](https://img.shields.io/badge/Angular-Enterprise-red?style=for-the-badge&logo=angular)]()
 
 ---
 
