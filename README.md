@@ -15,7 +15,7 @@
 
 ## 🏆 About Me
 
-🔹 Full-Stack Developer with expertise in **Gutenberg Blocks, React, Next.js, Angular, Node.js, TypeScript, and Magento 2**
+🔹 Full-Stack Developer with expertise in **Gutenberg Blocks, React, Next.js, Angular, Node.js, TypeScript, and Magento 2, and Blockchain development (smart contracts, Web3 integrations, DeFi, and NFT marketplaces)**
 
 🔹 Experienced in **AI/LLM integration**, including **RAG pipelines, embedding models, and LLM fine-tuning using LoRA, QLoRA, and Hugging Face Transformers**
 
@@ -27,15 +27,16 @@
 
 ## 🚀 Featured Repositories
 
-| Tech stack                                                                    | Technology     | Description                                  |
-| ----------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
-| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)                    | AI & LLM       | RAG & Fine Tune LLM                          |
-| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)                     | Next.js        | Server-side rendered Next.js application     |
-| [🔗 React](https://github.com/shaileshrathod128/reactjs)                      | ReactJS        | Demostrating React Advance Features          |
-| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)                      | NodeJS         | Demostrating Nodejs Advance Features         |
-| [🔗 Typescript](https://github.com/shaileshrathod128/typescript)              | Typescript     | Demostrating typescript Advance Features     |
-| [🔗 Angular](https://github.com/shaileshrathod128/angular)                    | Angular        | Demonstrating Angular Signal API             |
-| [🔗 Github Actions](https://github.com/shaileshrathod128/github-actions-cicd) | Github Actions | Demostrating Github Actions Advance Features |
+| Tech stack                                                                    | Technology     | Description                                                                          |
+| ----------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------ |
+| [🔗 AI & LLM](https://github.com/shaileshrathod128/ai-llm)                    | AI & LLM       | RAG & Fine Tune LLM                                                                  |
+| [🔗 Next.js](https://github.com/shaileshrathod128/nextjs)                     | Next.js        | Server-side rendered Next.js application                                             |
+| [🔗 React](https://github.com/shaileshrathod128/reactjs)                      | ReactJS        | Demostrating React Advance Features                                                  |
+| [🔗 NodeJS](https://github.com/shaileshrathod128/nodejs)                      | NodeJS         | Demostrating Nodejs Advance Features                                                 |
+| [🔗 Typescript](https://github.com/shaileshrathod128/typescript)              | Typescript     | Demostrating typescript Advance Features                                             |
+| [🔗 Blockchain](https://github.com/shaileshrathod128/blockchain)              | Blockchain     | Showcase Solidity, Ethereum, Web3.js, Ethers.js, Hardhat, Ganache, Truffle, Metamask |
+| [🔗 Angular](https://github.com/shaileshrathod128/angular)                    | Angular        | Demonstrating Angular Signal API                                                     |
+| [🔗 Github Actions](https://github.com/shaileshrathod128/github-actions-cicd) | Github Actions | Demostrating Github Actions Advance Features                                         |
 
 ---
 
