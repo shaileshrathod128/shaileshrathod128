@@ -10,6 +10,17 @@
 [![Github Actions](https://img.shields.io/badge/github-action?style=for-the-badge&logo=github-action)]()
 [![WordPress](https://img.shields.io/badge/WordPress-Gutenberg-blue?style=for-the-badge&logo=wordpress)]()
 [![Magento 2](https://img.shields.io/badge/Magento2-Ecommerce-orange?style=for-the-badge&logo=magento)]()
+![Solidity](https://img.shields.io/badge/Solidity-Expert-363636?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-Developer-3C3C3D?style=for-the-badge&logo=ethereum)
+![Web3.js](https://img.shields.io/badge/Web3.js-Pro-F16822?style=for-the-badge&logo=web3.js)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-Advanced-2535A0?style=for-the-badge&logo=ethers)
+![Hardhat](https://img.shields.io/badge/Hardhat-Builder-F7DF1E?style=for-the-badge&logo=hardhat)
+![Truffle](https://img.shields.io/badge/Truffle-Developer-5E464D?style=for-the-badge&logo=truffle)
+![Ganache](https://img.shields.io/badge/Ganache-Local%20Chain-EF9A57?style=for-the-badge&logo=ganache)
+![Metamask](https://img.shields.io/badge/Metamask-Integration-F6851B?style=for-the-badge&logo=metamask)
+![Chainlink](https://img.shields.io/badge/Chainlink-Oracle-375BD2?style=for-the-badge&logo=chainlink)
+![IPFS](https://img.shields.io/badge/IPFS-Storage-65C2CB?style=for-the-badge&logo=ipfs)
+![Polygon](https://img.shields.io/badge/Polygon-L2%20Scaling-8247E5?style=for-the-badge&logo=polygon)
 
 ---
 
